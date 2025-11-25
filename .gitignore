@@ -1,0 +1,46 @@
+# Arquivos e pastas temporárias do R
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+.Rproj.user
+.Rapp.history
+
+# Diretórios temporários do Positron / VSCode
+.vscode/
+.vscode
+.idea/
+*.code-workspace
+
+# Python: caches
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+.venv/
+venv/
+*.egg-info/
+
+# Quarto: diretórios de renderização
+_quarto.yaml
+.qmd-files
+*_cache/
+*_files/
+.freeze/
+build/
+publish/
+metadata.json
+
+# HTML e PDF renderizados (se você não quiser rastrear)
+*.html
+*.pdf
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Outros arquivos grandes ou desnecessários
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
