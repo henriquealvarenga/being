@@ -33,7 +33,6 @@ publish/
 metadata.json
 
 # HTML e PDF renderizados (se você não quiser rastrear)
-*.html
 *.pdf
 
 # Jupyter
